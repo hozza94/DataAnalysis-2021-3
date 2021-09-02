@@ -6,6 +6,7 @@ guideSearchApi/
 password.txt
 chromedriver.exe
 mysql.json
+archive/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
